@@ -10,10 +10,6 @@
 ### Career Aspirations
 As an aspiring Python Developer, I am dedicated to enhancing the programming industry with innovative solutions and continuous learning.
 
-#### Call to Action
-- **[Explore my projects](#projects)**
-- **[Learn about my skills](#skills)**
-
 ---
 
 ### About Me
@@ -109,4 +105,3 @@ Worked effectively in a team on the ISYS10242_SAD coursework project, contributi
 - **GitHub:** [Cameron Masih](https://github.com/KakashiCAM)
 
 ---
-
