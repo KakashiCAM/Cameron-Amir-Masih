@@ -2,10 +2,14 @@
 
 ## Cameron Masih - Aspiring Python Developer
 
+---
+
 ### Brief Introduction
 - **Name:** Cameron Masih
 - **Course:** Cybersecurity
 - **Year of Study:** First Year
+
+---
 
 ### Career Aspirations
 As an aspiring Python Developer, I am dedicated to enhancing the programming industry with innovative solutions and continuous learning.
